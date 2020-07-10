@@ -7,7 +7,7 @@ var rain = [];
 var wayne;
 var light;
 function preload(){
-    light = loadImage('lightening.PNG');
+    light = loadImage('/LIGHT.PNG');
 }
 function setup(){
     var canvas = createCanvas(1280,605);
